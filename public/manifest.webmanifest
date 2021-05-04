@@ -1,0 +1,21 @@
+{
+  "short_name": "wedding",
+  "name": "wedding: Do I need an wedding plan?",
+  "description": "wedding design",
+  "icons": [
+    {
+      "src": "./images/favicon2.png",
+      "type": "image/png",
+      "sizes": "225x225"
+    }
+  ],
+  "background_color": "#de5da2",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#de5da2",
+    "src": "./images/favicon2.png",
+    "sizes": "225x225",
+    "type": "image/png",
+    "purpose": "any maskable"
+  
+}
